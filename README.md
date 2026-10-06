@@ -14,11 +14,11 @@ The model can plan, build, and review. The controls around it make sure checks a
 
 Cadence is the clearest expression of how I think about AI-assisted development: automation is useful, but appearance is cheap. Verification is the work.
 
-### [Verbatim](https://github.com/crenshawdev/verbatim)
+### [Terminus](https://github.com/crenshawdev/terminus)
 
 Persistent, cross-session memory for Claude Code built on one premise: the transcript is the record.
 
-Verbatim keeps the original session intact and builds retrieval on top of it. Nothing is summarized away on ingest; indexes and observations are derived data that can be rebuilt from the source.
+Terminus keeps the original session intact and builds retrieval on top of it. Nothing is summarized away on ingest; indexes and observations are derived data that can be rebuilt from the source.
 
 Still in development.
 
